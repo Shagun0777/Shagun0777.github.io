@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.a617e044.chunk.css",
-    "main.js": "./static/js/main.c5b4e115.chunk.js",
-    "main.js.map": "./static/js/main.c5b4e115.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.49efecbb.js",
-    "runtime-main.js.map": "./static/js/runtime-main.49efecbb.js.map",
-    "static/js/2.58eb05af.chunk.js": "./static/js/2.58eb05af.chunk.js",
-    "static/js/2.58eb05af.chunk.js.map": "./static/js/2.58eb05af.chunk.js.map",
-    "static/js/3.30efe65f.chunk.js": "./static/js/3.30efe65f.chunk.js",
-    "static/js/3.30efe65f.chunk.js.map": "./static/js/3.30efe65f.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.a617e044.chunk.css.map": "./static/css/main.a617e044.chunk.css.map",
-    "static/js/2.58eb05af.chunk.js.LICENSE.txt": "./static/js/2.58eb05af.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "./static/media/logo.6ce24c58.svg"
+    "main.css": "/projects/to_do_list/index.html/static/css/main.a617e044.chunk.css",
+    "main.js": "/projects/to_do_list/index.html/static/js/main.c5b4e115.chunk.js",
+    "main.js.map": "/projects/to_do_list/index.html/static/js/main.c5b4e115.chunk.js.map",
+    "runtime-main.js": "/projects/to_do_list/index.html/static/js/runtime-main.41cd3f67.js",
+    "runtime-main.js.map": "/projects/to_do_list/index.html/static/js/runtime-main.41cd3f67.js.map",
+    "static/js/2.58eb05af.chunk.js": "/projects/to_do_list/index.html/static/js/2.58eb05af.chunk.js",
+    "static/js/2.58eb05af.chunk.js.map": "/projects/to_do_list/index.html/static/js/2.58eb05af.chunk.js.map",
+    "static/js/3.30efe65f.chunk.js": "/projects/to_do_list/index.html/static/js/3.30efe65f.chunk.js",
+    "static/js/3.30efe65f.chunk.js.map": "/projects/to_do_list/index.html/static/js/3.30efe65f.chunk.js.map",
+    "index.html": "/projects/to_do_list/index.html/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/projects/to_do_list/index.html/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.58eb05af.chunk.js.LICENSE.txt": "/projects/to_do_list/index.html/static/js/2.58eb05af.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/projects/to_do_list/index.html/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.49efecbb.js",
+    "static/js/runtime-main.41cd3f67.js",
     "static/js/2.58eb05af.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.c5b4e115.chunk.js"
